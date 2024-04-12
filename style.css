@@ -28,7 +28,7 @@ body{
     align-items: center;
     flex-direction: column;
     border-radius: 20px;
-    padding: 3rem;
+    padding: 2rem;
 }  
 
 img{
@@ -146,7 +146,6 @@ table {
     width: 100%;
     border-spacing: 10px;
     font-family: "outfit";
-    margin-bottom: 2rem;
 }
 
 table tr:not(tr:last-of-type) {
